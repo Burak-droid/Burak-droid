@@ -1,4 +1,4 @@
-![logo](https://github.com/Burak-droid/Burak-droid/blob/main/Burak%20Arslan.png?raw=true)
+![logo]([https://github.com/Burak-droid/Burak-droid/blob/main/Burak%20Arslan.png?raw=true](https://github.com/Burak-droid/Burak-droid/blob/main/Burak%20Arslan%20(2)%20(1).png?raw=true))
 
 <h3 align="center">A passionate game developer in Turkey</h3>
 <img align="right" alt="coding" width="400" src ="https://i.pinimg.com/originals/a5/f7/7b/a5f77bf9f301986fd2a16b14637c9ca1.gif">
