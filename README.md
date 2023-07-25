@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Burak Arslan</h1>
 <h3 align="center">A passionate game developer in Turkey</h3>
-
 <img align="right" alt="coding" width="400" src ="https://i.pinimg.com/originals/a5/f7/7b/a5f77bf9f301986fd2a16b14637c9ca1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burak-droid&label=Profile%20views&color=0e75b6&style=plastic" alt="burak-droid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burak-droid" alt="burak-droid" /></a> </p>
 
 - 🌱 I’m currently learning **Unity and Blender**
 
